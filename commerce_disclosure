@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>Commerce Disclosure</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .content {
+            font-size: 16px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <div class="title">販売業者の名称</div>
+        <div class="content">株式会社佐勇</div>
+    </div>
+    <div class="section">
+        <div class="title">所在地</div>
+        <div class="content">〒106-0032<br>東京都港区六本木7‐2‐5</div>
+    </div>
+    <div class="section">
+        <div class="title">電話番号</div>
+        <div class="content">03-6804-5103</div>
+    </div>
+    <div class="section">
+        <div class="title">メールアドレス</div>
+        <div class="content">toranomon@bonelite.jp</div>
+    </div>
+    <div class="section">
+        <div class="title">運営統括責任者</div>
+        <div class="content">佐藤広志</div>
+    </div>
+    <div class="section">
+        <div class="title">追加手数料等の追加料金</div>
+        <div class="content">なし</div>
+    </div>
+    <div class="section">
+        <div class="title">交換および返品（返金ポリシー）</div>
+        <div class="content">
+            ＜お客様都合の場合＞<br>
+            当日受け渡しの商品注文確定以降はキャンセルは出来ません。代金全額を頂戴いたします。<br>
+            ＜商品不備の場合＞<br>
+            商品現物を確認の上、返金処理、または新しい商品とお取替え致します。<br>
+        </div>
+    </div>
+    <div class="section">
+        <div class="title">引渡時期</div>
+        <div class="content">注文当日の選択された希望時間に店頭にて引き渡し。</div>
+    </div>
+    <div class="section">
+        <div class="title">受付け可能な決済手段</div>
+        <div class="content">クレジットカード</div>
+    </div>
+    <div class="section">
+        <div class="title">決済期間</div>
+        <div class="content">ただちに決済されます。</div>
+    </div>
+    <div class="section">
+        <div class="title">販売価格</div>
+        <div class="content">各商品ページに記載の金額</div>
+    </div>
+</body>
+</html>
